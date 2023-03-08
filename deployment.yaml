@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: bsj1209/eurekaserver:latest
+          image: bsj1209/hello-world:94
           ports:
             - containerPort: 8080
