@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: bsj1209/hello-world:224
+          image: bsj1209/hello-world:225
           ports:
             - containerPort: 8080
